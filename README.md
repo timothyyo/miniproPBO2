@@ -279,3 +279,45 @@ public interface KendaraanInterface {
     void hapusKendaraan();
     void tampilkanSemuaKendaraan();
 }
+
+
+
+
+
+
+OUTPUT PROGRAM (JALAN PROGRAM)
+
+1.Pilih Menu 1 untuk menambahkan Kendaraan 
+
+![Screenshot 2024-10-14 205441](https://github.com/user-attachments/assets/fcdfaf2c-822b-4c9d-9b9e-be0136d235c6)
+
+Hasil dari menambahkan kendaraan
+
+![Screenshot 2024-10-14 205730](https://github.com/user-attachments/assets/965d6f0c-5e98-49a9-8de9-fa36cc26dc89)
+
+
+2.Pilih Menu 2 untuk mengupdate/edit kendaraan
+
+![image](https://github.com/user-attachments/assets/92e51672-6404-4cbb-9eff-87e8ed0483f2)
+
+Hasil dari mengedit/update kendaraan
+
+![image](https://github.com/user-attachments/assets/66a4457e-1a87-4fa7-bb09-c670d5f9b078)
+
+
+3.Pilih Menu 3 untuk hapus kendraan 
+
+![image](https://github.com/user-attachments/assets/1befb7d2-c4f9-4e7e-8286-01316ae6a3c2)
+
+Hasil dari menghapus kendaraan
+
+![image](https://github.com/user-attachments/assets/f96f649a-eaf4-468e-b20a-8b7149f23a5a)
+
+
+4.Pilih menu 4 untuk menampilkan kendaraan
+
+![image](https://github.com/user-attachments/assets/04d8da68-30dc-4a35-bd8f-55bb46bd4716)
+
+5.Pilih menu 5 untuk keluar dari program
+
+![image](https://github.com/user-attachments/assets/02d8331b-3603-4e86-be81-443e996d1445)
